@@ -2,4 +2,4 @@
 
 # This is also in master
 
-# This is in the new branch
+# This is not any more in the new branch
